@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jqU1jrpCtWs2sYSVNRTMYlC+nUIfGakrA1tRQtZ2ANRoQD+2tf2W7p0VjlxgUBNwcOrE9GZj69xwsyfueM/dcQ==",
+  "dgSpecHash": "ww8CeaKPn9RPGL6fZKQJCHl2xnKXZbTmQRbaailpCFRifMtIAK4lNknJlh6YIqcO1ndzOIolE2Ehinx+YvBbZw==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\ECommerce.api\\src\\Fsm.Ecommerce.Infra.Data\\Fsm.Ecommerce.Infra.Data.csproj",
   "expectedPackageFiles": [],
